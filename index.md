@@ -1,6 +1,8 @@
 ---
 layout: default
 title: KCC Fast Path
+background_image1_path: assets/img/top-banner-desktop.png
+background_image2_path: assets/img/hero_desktop.jpg
 ---
 ## Earn&#160;a&#160;transfer&#160;degree in&#160;2&#160;years! <br />
 {: .bgcolor}
