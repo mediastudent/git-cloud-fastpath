@@ -1,0 +1,12 @@
+encoding: utf-8
+sass:
+  style: compressed
+  sass_dir: assets/css
+  sourcemap: true
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+exclude: ["node_modules", "gulpfile.js", "package.json", "package-lock.json", "Gemfile", "Gemfile.lock", "adobe", "assets/scss", "README.md", "docs/"]
