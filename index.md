@@ -1,7 +1,7 @@
 ---
 layout: default
 title: KCC Fast Path
-background_image1_path: /assets/img/D41_7247.jpg
+background_image1_path: /assets/img/top-banner-desktop.png
 background_image2_path: assets/img/hero_desktop.jpg
 ---
 
