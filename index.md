@@ -1,7 +1,7 @@
 ---
 layout: default
 title: KCC Fast Path
-background_image1_path:
+background_image1_path: /assets/img/top-banner-tablet.png
 background_image2_path:
 ---
 
